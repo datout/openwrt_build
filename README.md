@@ -1,6 +1,6 @@
 【[启动openwrt_x86_64编译](https://github.com/datout/openwrt_build/actions?query=workflow%3A%E7%BC%96%E8%AF%91OpenWrt%E5%9B%BA%E4%BB%B6)】
 
-【[启动K2P编译](https://github.com/datout/openwrt_build/actions?query=workflow%3A%E7%BC%96%E8%AF%91%E6%96%90%E8%AE%AFK2P%E5%9B%BA%E4%BB%B60)】
+【[启动K2P编译](https://github.com/datout/openwrt_build/actions?query=workflow%3A%E7%BC%96%E8%AF%91%E6%96%90%E8%AE%AFK2P%E5%9B%BA%E4%BB%B6)】
 - cd openwrt && make menuconfig
 # 2020/10/4号
 - 
