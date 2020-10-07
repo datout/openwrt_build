@@ -7,7 +7,7 @@
 #
 
 
-name: 编译斐讯K2P固件
+name: 编译斐讯Lienol_K2P固件
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ on:
       name:
         description: 'Person to greet'
         required: true
-        default: 'Lede_phicomm_k2p'
+        default: 'Lienol_phicomm_k2p'
 
 
 #编辑任意指定文件触发开始编译
@@ -51,7 +51,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Lede_phicomm_k2p]
+        target: [Lienol_phicomm_k2p]
 
     steps:
     - name: 准备结束
